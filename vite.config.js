@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/scheduling-algo/',
+  base: '/TASK/',
   server: {
     port: 3000
   },
