@@ -1,0 +1,15 @@
+node_modules
+dist
+.DS_Store
+desktop.ini
+*.log
+*.pdf
+*.zip
+color_palette_*.png
+color_palette_0.png
+extracted_image_*.png
+read_pdf_assets.py
+read_pdf_details.py
+inspect_image.py
+extract_pdf_image.py
+print_svgs.py
